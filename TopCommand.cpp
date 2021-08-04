@@ -18,7 +18,7 @@
 
 cCOMMAND::cCOMMAND(cSEND_INTERFACE *t)
     : sendInterface(t)
-{
+{ xx
 }
 
 int cCOMMAND::sendCmd(DATATGR &dataTgr)
